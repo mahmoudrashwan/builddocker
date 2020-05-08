@@ -110,7 +110,7 @@ ENV/
 env.bak/
 venv.bak/
 .builddocker
-
+.builddocker/
 # Spyder project settings
 .spyderproject
 .spyproject
